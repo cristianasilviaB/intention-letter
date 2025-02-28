@@ -26,8 +26,6 @@ I’ve worked on several academic projects that involved **VHDL**, such as desig
 
 This opportunity at Analog Devices would be a fantastic chance to grow both **professionally** and **personally**, and I am confident that my passion for **VHDL** and my eagerness to learn make me a strong fit for the program.
 
-I would love the opportunity to discuss how my skills and background align with the program’s goals.
-
 Thank you for your time and consideration.
 
 ---
